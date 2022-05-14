@@ -1,0 +1,6 @@
+Nurofen,100,Bayer,Lipide
+Dicarbocalm,200,Carpatcement,Proteine
+Midocalm,300,Rusi,NoIdea
+Calciu,30,Sandoz,Calciu
+bana,1,ewfwf,wefwef
+Paracetamol,1,catena,acid
